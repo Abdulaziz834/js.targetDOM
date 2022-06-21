@@ -1,0 +1,22 @@
+{
+  "name": "js.targetdom",
+  "version": "1.0.0",
+  "description": "Target HTML DOM Elements with Javascript.",
+  "main": "script.min.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulaziz834/js.targetDOM.git"
+  },
+  "keywords": [
+    "target"
+  ],
+  "author": "Abdulaziz834",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdulaziz834/js.targetDOM/issues"
+  },
+  "homepage": "https://github.com/Abdulaziz834/js.targetDOM#readme"
+}
