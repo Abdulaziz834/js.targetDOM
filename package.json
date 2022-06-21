@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abdulaziz834/js.targetDOM.git"
+    "url": "git://github.com/Abdulaziz834/js.targetDOM.git"
   },
   "keywords": [
     "target"
