@@ -1,6 +1,6 @@
 {
   "name": "js.targetdom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Target HTML DOM Elements with Javascript.",
   "main": "script.min.js",
   "scripts": {
@@ -19,7 +19,10 @@
     "url": "https://github.com/Abdulaziz834/js.targetDOM/issues"
   },
   "publishConfig": {
-   "@Abdulaziz834:registry": "https://npm.pkg.github.com"
- },
-  "homepage": "https://github.com/Abdulaziz834/js.targetDOM#readme"
+    "@Abdulaziz834:registry": "https://npm.pkg.github.com"
+  },
+  "homepage": "https://github.com/Abdulaziz834/js.targetDOM#readme",
+  "dependencies": {
+    "js.targetdom": "^1.0.1"
+  }
 }
