@@ -1,6 +1,6 @@
 {
   "name": "js.targetdom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Target HTML DOM Elements with Javascript.",
   "main": "script.min.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Abdulaziz834/js.targetDOM#readme",
   "dependencies": {
-    "js.targetdom": "^1.0.1"
+    "js.targetdom": "^1.0.2"
   }
 }
